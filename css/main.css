@@ -40,3 +40,9 @@ a:active {
 a:hover {
   color: var(--brand-color-background);
 }
+.main {
+  background-color: var(--brand-color-background);
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
