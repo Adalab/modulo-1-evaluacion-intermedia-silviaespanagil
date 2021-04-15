@@ -62,8 +62,6 @@ a:hover {
   color: var(--brand-color-background);
 }
 
-/* RESPONSIVE CSS */
-
 @media all and (min-width: 48rem) {
   .header {
     width: 100%;
