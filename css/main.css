@@ -24,7 +24,19 @@
 }
 .menu-item-blog {
   padding-right: 0.63rem;
+  text-transform: uppercase;
+  color: var(--brand-color-menu);
 }
 .menu-item-contact {
   padding-left: 0.63rem;
+  text-transform: uppercase;
+  color: var(--brand-color-menu);
+}
+a:link,
+a:visited,
+a:active {
+  color: var(--brand-color-menu);
+}
+a:hover {
+  color: var(--brand-color-background);
 }
