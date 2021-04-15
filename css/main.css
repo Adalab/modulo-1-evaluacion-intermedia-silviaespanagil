@@ -10,6 +10,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: fixed;
+  background-color: var(--brand-color-slogan);
 }
 .logo {
   width: 9.69rem;
@@ -21,6 +23,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  font-size: 1rem;
 }
 .menu-item-blog {
   padding-right: 0.63rem;
@@ -32,6 +35,24 @@
   text-transform: uppercase;
   color: var(--brand-color-menu);
 }
+
+.main {
+  background-color: var(--brand-color-background);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.slogan {
+  color: var(--brand-color-slogan);
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1.88rem;
+  align-items: center;
+  justify-content: center;
+}
+
 a:link,
 a:visited,
 a:active {
@@ -39,10 +60,4 @@ a:active {
 }
 a:hover {
   color: var(--brand-color-background);
-}
-.main {
-  background-color: var(--brand-color-background);
-  width: 100%;
-  height: 100%;
-  display: flex;
 }
