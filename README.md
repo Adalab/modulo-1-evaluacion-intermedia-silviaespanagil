@@ -1,8 +1,11 @@
 # HTML and CSS: Exercise
 ## _Simple landing page_
-¡Hola!
+¡Hola mundo!
 
 This is an exercise where I try to use some new knowledge of HTML and CSS in a simple landing page layout ✨
+
+![image](https://user-images.githubusercontent.com/81619759/125417272-d0172ad5-26a3-4b1c-b432-dc8fb1103331.png)
+
 
 ## Requirements 📋
 
