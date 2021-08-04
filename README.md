@@ -31,3 +31,6 @@ This is two files repository: a HTML and a CSS, there are no special needs to ru
 ## License
 
 MIT
+
+## Codefactor
+[![CodeFactor](https://www.codefactor.io/repository/github/silviaespanagil/html-static-layout/badge/master)](https://www.codefactor.io/repository/github/silviaespanagil/html-static-layout/overview/master)
